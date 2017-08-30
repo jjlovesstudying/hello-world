@@ -1,5 +1,5 @@
 # hello-world
-JJ description of hello world is here! Just for learning purposes
+JJ description of hello world is here!
 
 This part is edited from within github.
 LOL. Have a nice day!
